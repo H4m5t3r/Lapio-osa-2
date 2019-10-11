@@ -1,2 +1,2 @@
 Stash-muutos
-Terveisiä minun koneelta
+Terveisiä minun koneelta ja GitHubista
